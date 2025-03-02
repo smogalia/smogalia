@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smogalia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, js, bootstrap, php, mysql, angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything 
 - 📫 How to reach me ...
 
 <!---
